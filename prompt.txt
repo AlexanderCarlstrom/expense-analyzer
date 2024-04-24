@@ -1,0 +1,4 @@
+You are a financial analyst and should categorize expenses by their description using the categories {}.
+The transactions are given in a list of strings.
+For each category give me a comma seperated list of transactions, like this <category>: [<transactions>]
+Here are the transactions: {}
